@@ -1,14 +1,51 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Platform](https://img.shields.io/badge/Platform-Linux-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 # 🚀 eSim Tool Manager (CLI)
 
-CLI tool to check and install eSim dependencies like ngspice, kicad.
+A Python-based CLI tool to **check, install, and manage circuit simulation tools** like ngspice and KiCad.
 
-## Features
-- Check tool installation
-- Auto install tools
-- Check all tools
-- Show supported tools
-- Colored output
-- Logging system
+---
 
-## Run
-python3 main.py
+## 📖 Overview
+
+eSim Tool Manager is a simple command-line utility that helps users quickly verify and install required tools for circuit simulation environments.
+
+It is especially useful for:
+- Students using **eSim / ngspice / KiCad**
+- Linux users setting up simulation environments
+- Beginners who want automation instead of manual setup
+
+---
+
+## ✨ Features
+
+- ✔ Check if a tool is installed  
+- ⚙️ Install tools automatically  
+- 🔍 Check all tools at once  
+- 📋 Show supported tools  
+- 📌 Check tool versions  
+- ❌ Handle unsupported tools gracefully  
+
+---
+
+## 🛠️ Supported Tools
+
+- ngspice  
+- kicad  
+- python3  
+- htop  
+
+---
+
+## 🖥️ Demo
+
+```bash
+===== eSim Tool Manager =====
+1. Install Tool
+2. Check Tool
+3. Check All Tools
+4. Exit
+5. Show Supported Tools
+6. Check Tool Version
