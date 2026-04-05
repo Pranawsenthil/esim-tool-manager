@@ -42,3 +42,7 @@ It is especially useful for:
 ## 📸 Demo
 
 ![Demo](assets/demo.png)
+
+## 🎥 Demo Video
+
+https://drive.google.com/file/d/1NIaFloDxjFdYwVjj7G-khRWaDVh_sQIo/view?usp=sharing
