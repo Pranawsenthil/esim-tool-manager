@@ -39,13 +39,6 @@ It is especially useful for:
 
 ---
 
-## 🖥️ Demo
+## 📸 Demo
 
-```bash
-===== eSim Tool Manager =====
-1. Install Tool
-2. Check Tool
-3. Check All Tools
-4. Exit
-5. Show Supported Tools
-6. Check Tool Version
+![Demo](assets/demo.png)
